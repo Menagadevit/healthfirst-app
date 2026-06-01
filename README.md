@@ -24,8 +24,7 @@ A professional patient management system with blood test tracking and intelligen
 
 ## 🚀 How to Run
 
-git clone https://github.com/YourUsername/healthfirst-app.git
-cd healthfirst-app
+git clone healthfirst-app-mihs.vercel.app
 npx create-react-app .
 cp HealthFirst.jsx src/
 npm start
