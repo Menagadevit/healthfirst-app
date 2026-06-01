@@ -24,11 +24,13 @@ A professional patient management system with blood test tracking and intelligen
 
 ## 🚀 How to Run
 
-git clone healthfirst-app-mihs.vercel.app
-npx create-react-app .
-cp HealthFirst.jsx src/
-npm start
+Here is the direct link:
 
+[HealthFirst App](https://healthfirst-app-mihs.vercel.app?utm_source=chatgpt.com)
+
+Or copy:
+
+https://healthfirst-app-mihs.vercel.app
 ## 📋 Pages
 
 - Dashboard — Patient statistics overview
